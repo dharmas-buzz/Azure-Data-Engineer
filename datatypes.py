@@ -108,6 +108,8 @@ stu_info["city"] = "Bangalore"
 print(stu_info)
 # Result = {'name': 'Dharma', 'age': 26, 'subjects': ['Telugu', 'English', 'Kannada'], 'city': 'Bangalore'} 
 
+# This is new changes
+
  # To modify something in the dictionary
 stu_info["age"] = 25
 print(stu_info) # --> just change whatever you want to change... Resault = {'name': 'Dharma', 'age': 25, 'subjects': ['Telugu', 'English', 'Kannada'], 'city': 'Bangalore'}
